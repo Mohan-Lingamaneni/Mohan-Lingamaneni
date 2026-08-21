@@ -61,13 +61,6 @@ A smaller project focused on a common shipping problem: the amount quoted by a c
 
 My next project will move beyond a local CSV-to-dashboard workflow. I'm planning to use Azure for storage and orchestration, Snowflake for analytics, and an API as one of the data sources. The goal is to understand the full path from incoming data to a dashboard rather than adding cloud tools to a project just for the name.
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohan-Lingamaneni&show_icons=true&theme=transparent&hide_border=true" height="165" alt="Mohana Sai's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-Lingamaneni&layout=compact&theme=transparent&hide_border=true" height="165" alt="Most used languages" />
-</p>
-
 ## Contact
 
 I'm open to internship opportunities, project feedback, and conversations about analytics work.
