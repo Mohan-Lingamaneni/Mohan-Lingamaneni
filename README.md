@@ -4,7 +4,7 @@ I'm an Information Systems student at **The University of Texas at Arlington**, 
 
 Most of the work here is built around practical questions: Which carrier is creating extra shipping costs? What causes flight delays? Which skills are showing up most often in analyst job postings? I use SQL, Python, Excel, Power BI, and Tableau to work through those questions.
 
-I'm currently looking for data analyst, business analyst, and technology analyst internship opportunities.
+I'm currently looking for data analyst, business analyst, and technology analyst internship and full-time opportunities.
 
 ## Projects
 
