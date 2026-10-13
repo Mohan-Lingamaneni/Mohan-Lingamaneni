@@ -2,7 +2,7 @@
 
 # Mohana Sai Lingamaneni
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=760&lines=Information+Systems+%2B+Business+Analytics;Turning+raw+data+into+usable+decisions;Building+with+Python%2C+SQL%2C+Power+BI%2C+and+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=760&lines=Information+Systems+%2B+AI+in+Business;Turning+raw+data+into+usable+decisions;Building+with+Python%2C+SQL%2C+Power+BI%2C+and+Java)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohana-sai-lingamaneni-/)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanasai.lingamaneni@gmail.com)
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm an Information Systems student at **The University of Texas at Arlington** with a minor in **Business Analytics**. I like projects where the work does not stop at cleaning a dataset: the analysis should explain an operational problem, support a decision, or become a tool someone can actually use.
+I'm an Information Systems student at **The University of Texas at Arlington** with a minor in **AI in Business**. I like projects where the work does not stop at cleaning a dataset: the analysis should explain an operational problem, support a decision, or become a tool someone can actually use.
 
 - Building **ShiftRepair**, a Java-based shift-coverage recovery system with a four-person team
 - Developing analytics and machine-learning projects with **Python, SQL, Power BI, Tableau, and Excel**
