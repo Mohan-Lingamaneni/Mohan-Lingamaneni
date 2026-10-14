@@ -85,13 +85,11 @@ Compared quoted and billed UPS and FedEx costs, calculated invoice variance, fla
 
 ## How I Approach a Project
 
-```mermaid
-flowchart LR
-    A[Raw data] --> B[Clean and validate]
-    B --> C[Analyze or model]
-    C --> D[Build KPIs and visuals]
-    D --> E[Explain the decision]
-```
+<div align="center">
+
+**Raw Data** → **Clean & Validate** → **Analyze or Model** → **Build KPIs & Visuals** → **Explain the Decision**
+
+</div>
 
 ## Technical Toolkit
 
