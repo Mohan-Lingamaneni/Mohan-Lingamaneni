@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohana-sai-lingamaneni-/)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanasai.lingamaneni@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Mohan-Lingamaneni&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/Mohan-Lingamaneni)
 
 </div>
 
