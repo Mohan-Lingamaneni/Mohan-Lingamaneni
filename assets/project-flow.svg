@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="title desc">
+  <title id="title">Mohana's project workflow</title>
+  <desc id="desc">An animated five-step workflow: understand, validate, analyze, build, and explain.</desc>
+  <style>
+    .bg { fill: #f6f8fa; stroke: #d0d7de; }
+    .label { fill: #57606a; font: 600 12px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; letter-spacing: 1.8px; }
+    .step { fill: #24292f; font: 600 15px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+    .num { fill: #ffffff; font: 700 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+    .rail { stroke: #d0d7de; stroke-width: 3; }
+    .node { fill: #2f81f7; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; stroke: #30363d; }
+      .label { fill: #8b949e; }
+      .step { fill: #e6edf3; }
+      .rail { stroke: #30363d; }
+    }
+  </style>
+  <rect class="bg" x="1" y="1" width="998" height="148" rx="16"/>
+  <text class="label" x="34" y="32">FROM QUESTION TO SHIPPABLE WORK</text>
+  <line class="rail" x1="105" y1="80" x2="895" y2="80"/>
+  <circle r="6" fill="#58a6ff">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M105 80 H895"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.92;1" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <g transform="translate(105 80)">
+    <circle class="node" r="20"/>
+    <circle r="27" fill="none" stroke="#58a6ff" stroke-width="2" opacity="0">
+      <animate attributeName="r" values="20;31;20" dur="6s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.8;0" dur="6s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <text class="num" text-anchor="middle" dy="5">1</text>
+    <text class="step" text-anchor="middle" y="50">Understand</text>
+  </g>
+  <g transform="translate(302 80)">
+    <circle class="node" r="20"/>
+    <circle r="27" fill="none" stroke="#58a6ff" stroke-width="2" opacity="0">
+      <animate attributeName="r" values="20;31;20" dur="6s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.8;0" dur="6s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <text class="num" text-anchor="middle" dy="5">2</text>
+    <text class="step" text-anchor="middle" y="50">Validate</text>
+  </g>
+  <g transform="translate(500 80)">
+    <circle class="node" r="20"/>
+    <circle r="27" fill="none" stroke="#58a6ff" stroke-width="2" opacity="0">
+      <animate attributeName="r" values="20;31;20" dur="6s" begin="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.8;0" dur="6s" begin="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text class="num" text-anchor="middle" dy="5">3</text>
+    <text class="step" text-anchor="middle" y="50">Analyze</text>
+  </g>
+  <g transform="translate(698 80)">
+    <circle class="node" r="20"/>
+    <circle r="27" fill="none" stroke="#58a6ff" stroke-width="2" opacity="0">
+      <animate attributeName="r" values="20;31;20" dur="6s" begin="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.8;0" dur="6s" begin="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <text class="num" text-anchor="middle" dy="5">4</text>
+    <text class="step" text-anchor="middle" y="50">Build</text>
+  </g>
+  <g transform="translate(895 80)">
+    <circle class="node" r="20"/>
+    <circle r="27" fill="none" stroke="#58a6ff" stroke-width="2" opacity="0">
+      <animate attributeName="r" values="20;31;20" dur="6s" begin="4.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.8;0" dur="6s" begin="4.8s" repeatCount="indefinite"/>
+    </circle>
+    <text class="num" text-anchor="middle" dy="5">5</text>
+    <text class="step" text-anchor="middle" y="50">Explain</text>
+  </g>
+</svg>
