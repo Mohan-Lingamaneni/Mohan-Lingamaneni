@@ -2,13 +2,15 @@
 
 # Mohana Sai Lingamaneni
 
-<samp>Information Systems @ UTA · Minor in AI in Business</samp>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&height=55&lines=Information+Systems+%40+UTA;Minor+in+AI+in+Business;Building+with+Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+JavaFX;Turning+operational+problems+into+useful+products" alt="Typing introduction" />
+</a>
 
-### I build data products and business systems that turn messy operational problems into clear decisions.
+I work where **data, business, and technology** meet—building practical tools that make messy problems easier to understand and act on.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohana_Sai-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohana-sai-lingamaneni-/)
-[![Email](https://img.shields.io/badge/Email-mohanasai.lingamaneni%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:mohanasai.lingamaneni@gmail.com)
-[![UTA](https://img.shields.io/badge/UTA-Information_Systems-0064B1?style=flat-square)](https://www.uta.edu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohana-sai-lingamaneni-/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-30363D?style=flat-square&logo=gmail&logoColor=white)](mailto:mohanasai.lingamaneni@gmail.com)
+[![UTA](https://img.shields.io/badge/UTA-Class_of_2027-0064B1?style=flat-square)](https://www.uta.edu/)
 
 </div>
 
