@@ -2,24 +2,25 @@
 
 # Mohana Sai Lingamaneni
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=760&lines=Information+Systems+%2B+AI+in+Business;Turning+raw+data+into+usable+decisions;Building+with+Python%2C+SQL%2C+Power+BI%2C+and+Java)](https://git.io/typing-svg)
+<samp>Information Systems @ UTA · Minor in AI in Business</samp>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohana-sai-lingamaneni-/)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanasai.lingamaneni@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Mohan-Lingamaneni&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/Mohan-Lingamaneni)
+### I build data products and business systems that turn messy operational problems into clear decisions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohana_Sai-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohana-sai-lingamaneni-/)
+[![Email](https://img.shields.io/badge/Email-mohanasai.lingamaneni%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:mohanasai.lingamaneni@gmail.com)
+[![UTA](https://img.shields.io/badge/UTA-Information_Systems-0064B1?style=flat-square)](https://www.uta.edu/)
 
 </div>
 
-## About Me
+---
 
-I'm an Information Systems student at **The University of Texas at Arlington** with a minor in **AI in Business**. I like projects where the work does not stop at cleaning a dataset: the analysis should explain an operational problem, support a decision, or become a tool someone can actually use.
+## A little about me
 
-- Building **ShiftRepair**, a Java-based shift-coverage recovery system with a four-person team
-- Developing analytics and machine-learning projects with **Python, SQL, Power BI, Tableau, and Excel**
-- Interested in **data analyst, business analyst, technology analyst, and operations analytics** opportunities
-- Currently expanding into **APIs, cloud data workflows, and applied machine learning**
+I am an Information Systems student at **The University of Texas at Arlington**, graduating in **May 2027**. My best work sits between analysis and implementation: I like understanding an operational problem, working through the data, and building something people can actually use.
 
-## Featured Work
+Right now, I am developing a JavaFX scheduling system with a four-person team and finishing an airline-operations dashboard in Power BI.
+
+## Selected work
 
 <table>
 <tr>
@@ -27,103 +28,113 @@ I'm an Information Systems student at **The University of Texas at Arlington** w
 
 ### [ShiftRepair](https://github.com/Mohan-Lingamaneni/ShiftRepair)
 
-An automated shift-coverage recovery system that helps managers respond when an employee calls out. The workflow checks eligibility, considers scheduling and overtime constraints, ranks potential replacements, and tracks recovery progress through a JavaFX interface.
+A JavaFX prototype for recovering coverage when an employee calls out. It brings manager schedules, recovery tracking, employee offers, countdowns, and response states into one workflow.
 
-**My focus:** front-end workflow, dashboard experience, GitHub collaboration, integration support, and project coordination  
-**Stack:** Java, JavaFX, Git, GitHub
+`Java` `JavaFX` `FXML` `CSS` `Maven`
 
-<sub>Public team repository · Active development</sub>
+**My work:** interface architecture, dashboard workflow, GitHub integration, and project coordination.
+
+[View repository →](https://github.com/Mohan-Lingamaneni/ShiftRepair)
 
 </td>
 <td width="50%" valign="top">
 
-### OKC Thunder Shot Probability Model
+### [Airline Operations Intelligence](https://github.com/Mohan-Lingamaneni/airline-operations-intelligence)
 
-Built a classification workflow to estimate whether a basketball shot would be made. I prepared **425K+ training records**, engineered defender-pressure features, compared decision-tree configurations, and evaluated performance using log-loss and ROC AUC.
+An analysis of **539K+ U.S. flights** across airlines, airports, routes, cancellations, and delays. The project combines a repeatable Python workflow, SQL analysis, data-quality checks, and Power BI reporting.
 
-**Result:** the selected 63-leaf model improved holdout log-loss while keeping the model interpretable  
-**Stack:** Python, pandas, scikit-learn, machine learning
+`Python` `SQL` `pandas` `SQLite` `Power BI`
 
-<sub>Analyst application case study</sub>
+**Current focus:** completing the interactive dashboard and project walkthrough.
+
+[View repository →](https://github.com/Mohan-Lingamaneni/airline-operations-intelligence)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### OKC Thunder Shot Model
+
+A classification case study estimating whether a basketball shot will be made. I prepared **425K+ training records**, engineered defender-pressure features, compared decision-tree configurations, and evaluated performance with log-loss and ROC AUC.
+
+`Python` `pandas` `scikit-learn` `Machine Learning`
+
+**Result:** selected an interpretable 63-leaf model that improved holdout log-loss.
+
+</td>
+<td width="50%" valign="top">
+
+### [Analytics Internship Radar](https://github.com/Mohan-Lingamaneni/analytics-internship-radar)
+
+A market-intelligence project built from **24K+ analyst job postings**. It compares requested skills, salary patterns, employers, and locations through a reproducible Python workflow and an interactive Tableau dashboard.
+
+`Python` `pandas` `Tableau` `Git`
+
+[View repository →](https://github.com/Mohan-Lingamaneni/analytics-internship-radar)
 
 </td>
 </tr>
 </table>
 
-### [Airline Operations Intelligence](https://github.com/Mohan-Lingamaneni/airline-operations-intelligence)
-
-Analyzed **539K+ U.S. flight records** to study airline, airport, route, cancellation, and delay performance. The project includes a repeatable cleaning workflow, automated data-quality checks, a SQLite analytical layer, SQL KPI queries, and an in-progress Power BI dashboard.
-
-**What I worked on:** operational KPIs, time-based delay analysis, route performance, data validation, and dashboard development  
-**Stack:** Python, pandas, SQL, SQLite, Power BI
-
-<p align="center">
-  <a href="https://github.com/Mohan-Lingamaneni/airline-operations-intelligence">
-    <img src="https://raw.githubusercontent.com/Mohan-Lingamaneni/airline-operations-intelligence/main/images/eda/delay_cause_contribution.png" width="48%" alt="Airline delay cause contribution chart" />
-    <img src="https://raw.githubusercontent.com/Mohan-Lingamaneni/airline-operations-intelligence/main/images/eda/arrival_delay_rate_by_airline.png" width="48%" alt="Arrival delay rate by airline chart" />
-  </a>
-</p>
-
 <details>
-<summary><strong>Explore more analytics projects</strong></summary>
+<summary><strong>Open dashboard previews</strong></summary>
+<br>
 
-### [Analytics Internship Radar](https://github.com/Mohan-Lingamaneni/analytics-internship-radar)
-
-Analyzed **24K+ analyst job postings** to compare requested skills, salaries, employers, and locations. Python and pandas handle preparation, while Tableau turns the results into an interactive market-intelligence dashboard.
+**Airline Operations Intelligence**
 
 <p align="center">
-  <a href="https://github.com/Mohan-Lingamaneni/analytics-internship-radar">
-    <img src="https://raw.githubusercontent.com/Mohan-Lingamaneni/analytics-internship-radar/main/images/dashboard.png" width="92%" alt="Analytics job market Tableau dashboard" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Mohan-Lingamaneni/airline-operations-intelligence/main/images/eda/delay_cause_contribution.png" width="48%" alt="Airline delay cause contribution" />
+  <img src="https://raw.githubusercontent.com/Mohan-Lingamaneni/airline-operations-intelligence/main/images/eda/arrival_delay_rate_by_airline.png" width="48%" alt="Arrival delay rate by airline" />
 </p>
 
-### [Shipping Cost Reconciliation](https://github.com/Mohan-Lingamaneni/Shipping-Intelligence-mini-project)
+**Analytics Internship Radar**
 
-Compared quoted and billed UPS and FedEx costs, calculated invoice variance, flagged possible overcharges, and summarized carrier delivery performance using Python and pandas.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohan-Lingamaneni/analytics-internship-radar/main/images/dashboard.png" width="92%" alt="Analytics internship market dashboard" />
+</p>
 
 </details>
 
-## How I Approach a Project
+<details>
+<summary><strong>Open another project</strong></summary>
+<br>
+
+### [Shipping Cost Reconciliation](https://github.com/Mohan-Lingamaneni/Shipping-Intelligence-mini-project)
+
+Compared quoted and billed UPS and FedEx costs, calculated invoice variance, flagged possible overcharges, and summarized delivery performance by carrier.
+
+`Python` `pandas` `Data Validation`
+
+</details>
+
+## What I am working on now
+
+| Project | In progress | Next milestone |
+|---|---|---|
+| **ShiftRepair** | Manager and employee workflows | Connect shared recovery logic |
+| **Airline Operations Intelligence** | Power BI report pages | Publish dashboard walkthrough |
+| **Analytics toolkit** | Applied ML and API workflows | Build a source-to-dashboard pipeline |
+
+## Toolkit
+
+**Analysis:** Python · SQL · pandas · NumPy · Excel  
+**Business intelligence:** Power BI · Tableau · KPI design · Data visualization  
+**Development:** Java · JavaFX · SQLite · Git · GitHub · VS Code · Jupyter  
+**Working style:** Data validation · Requirements analysis · Process mapping · Documentation
+
+## How I work
+
+**Understand the problem** → **Clean and validate** → **Analyze or build** → **Test the result** → **Explain the decision**
+
+---
 
 <div align="center">
 
-**Raw Data** → **Clean & Validate** → **Analyze or Model** → **Build KPIs & Visuals** → **Explain the Decision**
+### Let’s connect
+
+I am open to data, business, technology, and operations-analytics opportunities.
+
+[LinkedIn](https://www.linkedin.com/in/mohana-sai-lingamaneni-/) · [Email](mailto:mohanasai.lingamaneni@gmail.com)
 
 </div>
-
-## Technical Toolkit
-
-**Analytics and programming**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Business intelligence and data**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Development workflow**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-## Currently Building
-
-| Project | Current focus | Next milestone |
-|---|---|---|
-| **ShiftRepair** | JavaFX workflows and team integration | Complete end-to-end recovery flow |
-| **Airline Operations Intelligence** | Power BI report development | Publish an interactive dashboard walkthrough |
-| **Analytics stack** | APIs and cloud fundamentals | Build a source-to-dashboard pipeline |
-
-## Let's Connect
-
-I'm open to internship and early-career opportunities, project feedback, and conversations about analytics, business systems, and practical data work.
-
-**Email:** [mohanasai.lingamaneni@gmail.com](mailto:mohanasai.lingamaneni@gmail.com)  
-**LinkedIn:** [linkedin.com/in/mohana-sai-lingamaneni-](https://www.linkedin.com/in/mohana-sai-lingamaneni-/)
