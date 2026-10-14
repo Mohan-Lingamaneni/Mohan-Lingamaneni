@@ -7,6 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohana-sai-lingamaneni-/)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanasai.lingamaneni@gmail.com)
 
+<br>
+
+[**About**](#about-me) &nbsp;·&nbsp; [**Featured Work**](#featured-work) &nbsp;·&nbsp; [**Toolkit**](#technical-toolkit) &nbsp;·&nbsp; [**Now**](#currently-building) &nbsp;·&nbsp; [**Connect**](#lets-connect)
+
 </div>
 
 ## About Me
@@ -17,6 +21,25 @@ I'm an Information Systems student at **The University of Texas at Arlington** w
 - Developing analytics and machine-learning projects with **Python, SQL, Power BI, Tableau, and Excel**
 - Interested in **data analyst, business analyst, technology analyst, and operations analytics** opportunities
 - Currently expanding into **APIs, cloud data workflows, and applied machine learning**
+
+<table>
+<tr>
+<td align="center" width="25%"><strong>539K+</strong><br><sub>flight records analyzed</sub></td>
+<td align="center" width="25%"><strong>425K+</strong><br><sub>model training records</sub></td>
+<td align="center" width="25%"><strong>24K+</strong><br><sub>job postings studied</sub></td>
+<td align="center" width="25%"><strong>4-person</strong><br><sub>development team</sub></td>
+</tr>
+</table>
+
+<div align="center">
+
+**Live project pulse**
+
+[![ShiftRepair activity](https://img.shields.io/github/last-commit/Mohan-Lingamaneni/ShiftRepair?style=flat-square&label=ShiftRepair&color=2F81F7)](https://github.com/Mohan-Lingamaneni/ShiftRepair)
+[![Airline activity](https://img.shields.io/github/last-commit/Mohan-Lingamaneni/airline-operations-intelligence?style=flat-square&label=Airline%20Intelligence&color=2F81F7)](https://github.com/Mohan-Lingamaneni/airline-operations-intelligence)
+[![Radar activity](https://img.shields.io/github/last-commit/Mohan-Lingamaneni/analytics-internship-radar?style=flat-square&label=Internship%20Radar&color=2F81F7)](https://github.com/Mohan-Lingamaneni/analytics-internship-radar)
+
+</div>
 
 ## Featured Work
 
@@ -131,11 +154,9 @@ Compared quoted and billed UPS and FedEx costs, calculated invoice variance, fla
 
 ## How I Work
 
-<div align="center">
-
-`Understand the problem` → `Clean and validate` → `Analyze or build` → `Test the result` → `Explain the decision`
-
-</div>
+<p align="center">
+  <img src="./assets/project-flow.svg" width="100%" alt="Animated workflow showing Understand, Validate, Analyze, Build, and Explain" />
+</p>
 
 ---
 
